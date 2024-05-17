@@ -1,3 +1,4 @@
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Muhammad Hasnaat Anjum</h1>
 <h3 align="center">A passionate frontend developer from Lahore,Pak</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnaat1" alt="hasnaat1" /></a> </p>
@@ -9,8 +10,8 @@
 - 📝 I regularly write articles on [https://animesupdate2023.blogspot.com/](https://animesupdate2023.blogspot.com/)
 
 - 📫 How to reach me **hasnaatdon1@gmail.com**
-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NgUtI3tYLhuq5Vy0.gif" alt="hasnaat1" /> </p>
-
+ </p>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NgUtI3tYLhuq5Vy0.gif" alt="hasnaat1" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
