@@ -1,4 +1,4 @@
-![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hasnaat Anjum</h1>
 <h3 align="center">A passionate frontend developer from Lahore,Pak</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnaat1" alt="hasnaat1" /></a> </p>
